@@ -20,17 +20,17 @@
 
 
 
-<h3 align="center">Summarize Snap</h3>
+<h3 align="center">Film Vault</h3>
 
   <p align="center">
-    Transform images with text into a concise summary using Tesseract OCR and Google's Pegasus model
+    Effortlessly track and rate your watched movies with this React-powered app
     <br />
-    <a href="https://youtu.be/-disf3JseqE"><strong>VIDEO DEMO</strong></a>
+    <a href="https://film-vault-dmhoang.netlify.app"><strong>LIVE DEMO</strong></a>
     <br />
     <br />
-    <a href="https://github.com/skald1311/Summerize-Snap/issues">Report Bug</a>
+    <a href="https://github.com/skald1311/film-vault/issues">Report Bug</a>
     ·
-    <a href="https://github.com/skald1311/Summerize-Snap/issues">Request Feature</a>
+    <a href="https://github.com/skald1311/film-vault/issues">Request Feature</a>
   </p>
 </div>
 
