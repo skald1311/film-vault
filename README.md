@@ -63,25 +63,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Summarize Snap is a cutting-edge project that seamlessly bridges the gap between visual content and concise textual summaries. This innovative solution is designed to streamline the process of extracting meaningful insights from images containing textual information. Whether it's a snapshot of a magazine article, a wiki page, or any other image containing text, Summarize Snap empowers users to swiftly and accurately obtain summaries.
+Film Vault, our React-powered app, offers a streamlined way to track and rate your watched movies. Organize your cinematic adventures effortlessly in a secure digital vault, creating a personalized archive of your favorite films. With a user-friendly interface, Film Vault not only simplifies movie management but also integrates IMDb ratings, letting you see how others have rated the same films. Dive into a curated movie experience that combines your preferences with the collective insights of the IMDb community.
 
-![ssd2](https://github.com/skald1311/Summerize-Snap/assets/84189062/15fff7d0-48e8-4632-9e50-63001967f2fd)
+![image](https://github.com/skald1311/film-vault/assets/84189062/6ebed64f-e041-4c87-94cc-299fc65b0dd5)
+
 
 
 Key Features:
 
-1. Image-to-Text Conversion: Leveraging the power of Tesseract OCR (Optical Character Recognition), Summarize Snap efficiently converts images containing text into editable textual data. This foundational step ensures that the textual content is accurately extracted from the image, setting the stage for robust summarization.
+1. Effortless Movie Tracking: Utilizing a single-page app design principle, Film Vault provides a seamless and responsive user interface, offering an elegant and friendly feel for effortless movie tracking.
 
-2. Advanced Text Summarization: With the integration of Google's Pegasus model, Summarize Snap takes text summarization to the next level. This state-of-the-art model, trained on massive amounts of data, excels at capturing the essence of lengthy passages and distilling them into concise and coherent summaries. The model I used was specifically trained on the cnn_dailymail dataset.
+2. Secure Local Storage: Film Vault leverages your browser's local storage, ensuring a secure and convenient way to store your watched list and ratings. This allows you to revisit and update your movie records at any time without the need for an external account.
 
-3. User-Friendly Interface: Summarize Snap boasts an intuitive and user-friendly interface, making it accessible to both tech-savvy users and newcomers. Simply upload an image with text, and the tool takes care of the rest, ensuring a seamless user experience from start to finish.
+3. Automatic Rating Insights: Film Vault calculates and displays your average rating for your watched list alongside the average IMDb user rating, providing valuable insights for easy comparisons and a deeper understanding of your cinematic preferences.
 
-4. Versatility and Application: From students seeking to grasp the main ideas of dense academic texts to professionals needing quick insights from business documents, Summarize Snap finds application across various domains and sectors.
+Enhance your projects effortlessly with our React StarRating Component. As a small but impactful side offering, we've crafted a dedicated API file that you can seamlessly download from our source code. This allows you to integrate our sleek star rating system directly into your React applications, bringing a touch of Film Vault's user-friendly design to your own projects. Elevate your UI effortlessly with our downloadable React Component, making cinematic flair a seamless addition to your development toolkit.
 
-
-Experience the future of text summarization with Summarize Snap. Whether you're a researcher, a student, a professional, or simply someone looking to extract valuable information from images, this project offers a revolutionary solution at your fingertips. Embrace the synergy of Tesseract OCR and Google's Pegasus model for an unparalleled summarization experience.
-
-Unlock the potential of images as a source of succinct knowledge with Summarize Snap today. Transform visual content into actionable insights effortlessly and elevate your information processing game.
+Originally conceived as a course project, Film Vault has evolved into a personalized movie tracking experience that now reflects my unique style and preferences. While its inception may have been part of an academic journey, I've transformed the app by infusing it with a carefully curated color palette and minor details to align with my aesthetic vision.
 
 
 
