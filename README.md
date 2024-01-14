@@ -78,7 +78,7 @@ Key Features:
 
 2. Secure Local Storage: Film Vault leverages your browser's local storage, ensuring a secure and convenient way to store your watched list and ratings. This allows you to revisit and update your movie records at any time without the need for an external account.
 
-3. Automatic Rating Insights: Film Vault calculates and displays your average rating for your watched list alongside the average IMDb user rating, providing valuable insights for easy comparisons and a deeper understanding of your cinematic preferences.
+3. Automatic Rating Insights: Film Vault calculates and displays your average rating for your watched list. It also fetches the average IMDb user rating from the RESTful API OMDb, providing valuable insights for easy comparisons and a deeper understanding of your cinematic preferences.
 
 ![image](https://github.com/skald1311/film-vault/assets/84189062/028bd6f2-23d1-4602-8121-48a1aac914c5)
 
