@@ -77,6 +77,8 @@ Key Features:
 
 3. Automatic Rating Insights: Film Vault calculates and displays your average rating for your watched list alongside the average IMDb user rating, providing valuable insights for easy comparisons and a deeper understanding of your cinematic preferences.
 
+![image](https://github.com/skald1311/film-vault/assets/84189062/028bd6f2-23d1-4602-8121-48a1aac914c5)
+
 Enhance your projects effortlessly with our React StarRating Component. As a small but impactful side offering, we've crafted a dedicated API file that you can seamlessly download from our source code. This allows you to integrate our sleek star rating system directly into your React applications, bringing a touch of Film Vault's user-friendly design to your own projects. Elevate your UI effortlessly with our downloadable React Component, making cinematic flair a seamless addition to your development toolkit.
 
 Originally conceived as a course project, Film Vault has evolved into a personalized movie tracking experience that now reflects my unique style and preferences. While its inception may have been part of an academic journey, I've transformed the app by infusing it with a carefully curated color palette and minor details to align with my aesthetic vision.
@@ -89,8 +91,8 @@ Originally conceived as a course project, Film Vault has evolved into a personal
 
 ### Built With
 
-* [![Python][Python]][Python-url]
-* [![Pytorch][Pytorch]][Pytorch-url]
+* ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+* [![Javascript][Javascript]][Javascript-url]
 * [![HTML5][HTML5]][HTML5-url]
 * [![CSS][CSS]][CSS-url]
 
@@ -184,6 +186,8 @@ Project Link: [github.com/skald1311/Summerize-Snap](https://github.com/skald1311
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Javascript-url]: https://www.javascript.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hmd1311/
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -192,6 +196,5 @@ Project Link: [github.com/skald1311/Summerize-Snap](https://github.com/skald1311
 [HTML5-url]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://en.wikipedia.org/wiki/CSS
-[logo]: https://github.com/skald1311/Music-Visualizer/assets/84189062/97092b3b-4f77-4a86-8c4e-fdfa5b2fafe1
 [Pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 [Pytorch-url]: https://pytorch.org
