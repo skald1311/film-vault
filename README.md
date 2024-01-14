@@ -57,7 +57,6 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -89,6 +88,7 @@ Originally conceived as a course project, Film Vault has evolved into a personal
 
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -107,11 +107,9 @@ Originally conceived as a course project, Film Vault has evolved into a personal
 <!-- GETTING STARTED -->
 ## Installation
 
-**LIVE DEMO ISN'T AVAILABLE BECAUSE UNFORTUNATELY I COULDN'T GET TESSERACT TO BE INSTALLED PROPERLY ON RENDER.COM. IT DOESN'T WORK BUT THE LINK IS HERE REGARDLESS: [NOT WORKING](https://summarize-snap.onrender.com)**
+**LIVE DEMO [HERE](https://film-vault-dmhoang.netlify.app)**
 
-**VIDEO DEMO [HERE](https://youtu.be/-disf3JseqE)**
-
-**LOCAL VERSION WORKS FINE, BELOW IS THE INSTRUCTIONS**
+**Instructions for setting it up locally**
 
 To get a local copy up and running follow these simple example steps.
 
@@ -130,33 +128,14 @@ To get a local copy up and running follow these simple example steps.
    Make sure all of the files are in the same folder!!!
    ```
 
-4. Install Tesseract manually
-  
-    Latest installer for window: https://github.com/UB-Mannheim/tesseract/wiki
-   
-    For other OS: https://tesseract-ocr.github.io/tessdoc/Installation.html
-   
-    Search Edit the system environment variables -> Environment Variables -> PATH -> NEW -> add the path to tesseract-ocr (usually C:\Program Files\Tesseract-OCR) -> OK
-   
-    In Environment Variables -> New ->  Variable name: TESSDATA_PREFIX    |    Variable value: C:\Program Files\Tesseract-OCR\tessdata -> OK
-
-6. Open cmd -> change directory to "src" folder -> Create a virtual environment (below is for Windows)
+4. Install all the dependencies: Open cmd -> change directory to the folder that contains src and public folder -> then do the command below
    ```sh
-   py -3 -m venv .venv
-   .venv\Scripts\activate
+   npm install
    ```
 
-7. Install all the dependencies
-  ```sh
-  pip install -r requirements.txt
-  ```
-  if this doesn't work, try this instead:
-  ```sh
-  pip install transformers torch sentencepiece pytesseract Flask Flask-Reuploaded Flask-WTF
-  ```
-7. Run the below command in terminal
+5. Still in cmd -> do command below
    ```sh
-   flask --app app run
+   npm start
    ```
 
 <!-- CONTRIBUTING -->
@@ -182,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
+Project Link: [github.com/skald1311/film-vault](https://github.com/skald1311/film-vault)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
