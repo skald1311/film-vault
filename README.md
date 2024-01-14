@@ -92,7 +92,7 @@ Originally conceived as a course project, Film Vault has evolved into a personal
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!-- Built With -->
 ### Built With
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
