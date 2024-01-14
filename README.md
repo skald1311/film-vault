@@ -91,10 +91,10 @@ Originally conceived as a course project, Film Vault has evolved into a personal
 
 ### Built With
 
-* ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-* [![Javascript][Javascript]][Javascript-url]
-* [![HTML5][HTML5]][HTML5-url]
-* [![CSS][CSS]][CSS-url]
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+[![HTML5][HTML5]][HTML5-url]
+[![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
