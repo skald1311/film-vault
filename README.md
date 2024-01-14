@@ -24,6 +24,10 @@
 
   <p align="center">
     Effortlessly track and rate your watched movies with this React-powered app
+    ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+[![HTML5][HTML5]][HTML5-url]
+[![CSS][CSS]][CSS-url]
     <br />
     <a href="https://film-vault-dmhoang.netlify.app"><strong>LIVE DEMO</strong></a>
     <br />
