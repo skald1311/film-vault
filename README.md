@@ -84,6 +84,8 @@ Key Features:
 
 Enhance your projects effortlessly with our React StarRating Component. As a small but impactful side offering, we've crafted a dedicated API file that you can seamlessly download from our source code. This allows you to integrate our sleek star rating system directly into your React applications, bringing a touch of Film Vault's user-friendly design to your own projects. Elevate your UI effortlessly with our downloadable React Component, making cinematic flair a seamless addition to your development toolkit.
 
+Enhancing the user experience, Film Vault dynamically updates the document title with each selected movie, seamlessly achieved through the power of the useEffect hook. As you navigate through the movie list, the title of the document dynamically reflects the currently selected movie, offering a personalized touch to your cinematic journey. This subtle yet impactful feature ensures that each movie takes center stage, creating an immersive and tailored experience for every user interaction within the application
+
 Originally conceived as a course project, Film Vault has evolved into a personalized movie tracking experience that now reflects my unique style and preferences. While its inception may have been part of an academic journey, I've transformed the app by infusing it with a carefully curated color palette and minor details to align with my aesthetic vision.
 
 
