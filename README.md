@@ -9,6 +9,9 @@
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+[![HTML5][HTML5]][HTML5-url]
+[![CSS][CSS]][CSS-url]
 
 
 
